@@ -5,6 +5,6 @@ draft = true
 +++
 ## Introduction
 
-This is **Amine** text, and this is *emphasized* text.
+This is **ANA** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
