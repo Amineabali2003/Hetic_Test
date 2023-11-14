@@ -1,4 +1,4 @@
-baseURL = ' https://amineabali2003.github.io/Hetic_Test/'
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
